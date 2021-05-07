@@ -10,3 +10,4 @@ Life RPG is a small passion project in which I want to combine fun elements of R
 - In order to progress in-game and defeat dungeons and bosses you will need stronger stats and skills
 
 ## Early screenshots:
+![Alpha GUI proof](Screenshots/Initial.PNG)
